@@ -4,26 +4,24 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[OTT platform](https://medium.com/@shravan007.c/ott-platform-345b6d83eac7)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYg9Bd_kswrLa_KZOlrw1KdOgjQieE9FvWCtg3ToRC7nXRpUHK&s"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Software Design Project](/pdf/software_design_project.pdf)
+<img src="https://miro.medium.com/max/1024/1*KH-i7gZC9UEUELeMhnAugg.jpeg"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[OCR and NLP](https://medium.com/@shravan007.c/ocr-pytesseract-and-nlp-spacy-application-dbf89644e559)
+<img src="https://miro.medium.com/max/1440/1*aWnjsmWenMZFZjCdM736ag.jpeg"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [OTT platform](http://example.com/)
+- [Softwre Design Project](http://example.com/)
+- [OCR and NLP](http://example.com/)
 
 ---
 
