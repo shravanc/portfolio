@@ -1,11 +1,27 @@
-title: John Doe # your name (or website title) here
+title: Shravan Chandrashekharaiah # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Pursuing Masters of Science in Software Engineering at the University of Limerick  
   <br><br>
-  Second description 
+  Have 5+ years of work experience. Experienced in Ruby on Rails and Python technology. 
+  Professionally worked on below domain:
+  - OTT products(RoR).
+  - Newsroom(CMS) product(RoR).
+  - OCR Technology(Flask) 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Personal Projects:
+  - Micro Service vod_platform in rails as a College project.
+  - Chat application using Action Cabel
+  - OCR and NLP Project using Spacy.
+  - OTT platform using rails engine.
+  - Others
+  <br><br>
+  Interests:
+  - Reading
+  - Sports (Badminton, Table Tennis)
+  - Movies
   
+  <a href="https://www.linkedin.com/in/shravan-chandrashekharaiah/">View My LinkedIn Profile</a> 
+  <a href="https://medium.com/@shravan007.c">Medium Stories</a> 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
