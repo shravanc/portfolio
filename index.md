@@ -2,17 +2,15 @@
 
 ---
 
-### Category Name 1 
-
-[Classification using Tensorflow](https://medium.com/@shravan007.c/classification-using-tensorflow-with-feature-columns-and-dataset-pipeline-6ab67600130a)
+[###Classification using Tensorflow](https://medium.com/@shravan007.c/classification-using-tensorflow-with-feature-columns-and-dataset-pipeline-6ab67600130a)
 <img src="https://blog.exxactcorp.com/wp-content/uploads/2019/07/Tensorflow-2.0-bg.png"/>
 
 ---
-[Classification using Tensorflow Estimator](https://medium.com/@shravan007.c/classification-using-tensorflow-estimator-942b21dad3ca)
+[###Classification using Tensorflow Estimator](https://medium.com/@shravan007.c/classification-using-tensorflow-estimator-942b21dad3ca)
 <img src="https://blog.exxactcorp.com/wp-content/uploads/2019/07/Tensorflow-2.0-bg.png"/>
 
 ---
-[OTT platform](https://medium.com/@shravan007.c/ott-platform-345b6d83eac7)
+[###OTT platform](https://medium.com/@shravan007.c/ott-platform-345b6d83eac7)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYg9Bd_kswrLa_KZOlrw1KdOgjQieE9FvWCtg3ToRC7nXRpUHK&s"/>
 
 ---
