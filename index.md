@@ -2,15 +2,23 @@
 
 ---
 
-[###Classification using Tensorflow](https://medium.com/@shravan007.c/classification-using-tensorflow-with-feature-columns-and-dataset-pipeline-6ab67600130a)
+[Classification using Tensorflow](https://medium.com/@shravan007.c/classification-using-tensorflow-with-feature-columns-and-dataset-pipeline-6ab67600130a)
 <img src="https://blog.exxactcorp.com/wp-content/uploads/2019/07/Tensorflow-2.0-bg.png"/>
 
 ---
-[###Classification using Tensorflow Estimator](https://medium.com/@shravan007.c/classification-using-tensorflow-estimator-942b21dad3ca)
+[Classification using Tensorflow Estimator](https://medium.com/@shravan007.c/classification-using-tensorflow-estimator-942b21dad3ca)
 <img src="https://blog.exxactcorp.com/wp-content/uploads/2019/07/Tensorflow-2.0-bg.png"/>
 
 ---
-[###OTT platform](https://medium.com/@shravan007.c/ott-platform-345b6d83eac7)
+[MVC for Flask](https://medium.com/@shravan007.c/mvc-for-flask-application-a636e6f58d72)
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/46941709/original/d5ace87ba59d0d4e5151668e60e8eaf673153ff7/build-api-in-python-flask.jpg"/>
+
+---
+[MySQL Join queries](https://medium.com/@shravan007.c/mysql-join-queries-employees-salaries-departments-titles-54efcc28860d)
+<img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/08/SQL-Join-01-1.jpg"/>
+
+---
+[OTT platform](https://medium.com/@shravan007.c/ott-platform-345b6d83eac7)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYg9Bd_kswrLa_KZOlrw1KdOgjQieE9FvWCtg3ToRC7nXRpUHK&s"/>
 
 ---
