@@ -2,7 +2,12 @@
 
 ---
 
-[Classification using Tensorflow](https://medium.com/@shravan007.c/classification-using-tensorflow-with-feature-columns-and-dataset-pipeline-6ab67600130a)
+[Transfer Learning with Tensorflow](https://medium.com/@shravan007.c/transfer-learning-with-tensorflow-hub-29a4bbff8879)
+<img src="https://blog.exxactcorp.com/wp-content/uploads/2019/07/Tensorflow-2.0-bg.png"/>
+
+---
+
+[Tensorflow feature columns and dataset API](https://medium.com/@shravan007.c/classification-using-tensorflow-with-feature-columns-and-dataset-pipeline-6ab67600130a)
 <img src="https://blog.exxactcorp.com/wp-content/uploads/2019/07/Tensorflow-2.0-bg.png"/>
 
 ---
