@@ -2,6 +2,11 @@
 
 ---
 
+[Heat Map Integration for Cafes](https://medium.com/@shravan007.c/heat-map-integration-for-cafes-8-hours-of-development-in-hackathon-19a1527c6793)
+<img src="https://miro.medium.com/max/1536/1*SBJhRXt2q6BYCtIOhuz5Og.jpeg"/>
+
+---
+
 [Transfer Learning with Tensorflow](https://medium.com/@shravan007.c/transfer-learning-with-tensorflow-hub-29a4bbff8879)
 <img src="https://blog.exxactcorp.com/wp-content/uploads/2019/07/Tensorflow-2.0-bg.png"/>
 
