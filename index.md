@@ -41,15 +41,6 @@
 
 ---
 
-### Category Name 2
-
-- [OTT platform](http://example.com/)
-- [Softwre Design Project](http://example.com/)
-- [OCR and NLP](http://example.com/)
-
----
-
-
 
 
 ---
