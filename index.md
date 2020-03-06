@@ -2,7 +2,7 @@
 
 ---
 [Neural Machine Translation with Attention](https://medium.com/@shravan007.c/neural-machine-translation-with-attention-and-tensorflow-2-0-6c6d16c829f40)
-<img src="https://miro.medium.com/max/1536/1*SBJhRXt2q6BYCtIOhuz5Og.jpeg"/>
+<img src="https://blog.exxactcorp.com/wp-content/uploads/2019/07/Tensorflow-2.0-bg.png"/>
 
 ---
 
