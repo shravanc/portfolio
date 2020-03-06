@@ -1,6 +1,10 @@
 ## Portfolio
 
 ---
+[Neural Machine Translation with Attention](https://medium.com/@shravan007.c/neural-machine-translation-with-attention-and-tensorflow-2-0-6c6d16c829f40)
+<img src="https://miro.medium.com/max/1536/1*SBJhRXt2q6BYCtIOhuz5Og.jpeg"/>
+
+---
 
 [Heat Map Integration for Cafes(Hackathon at Jhonson & Jhonson)](https://medium.com/@shravan007.c/heat-map-integration-for-cafes-8-hours-of-development-in-hackathon-19a1527c6793)
 <img src="https://miro.medium.com/max/1536/1*SBJhRXt2q6BYCtIOhuz5Og.jpeg"/>
