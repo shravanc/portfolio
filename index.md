@@ -9,7 +9,7 @@
 
 ---
 [EDA - Data Imputation](https://medium.com/@shravan007.c/docker-for-exiting-rails-app-with-postgresql-59eaa79ec7ac)
-<img src="https://www.researchgate.netprofile/Ben_Van_Dusen/publication/327434397/figure/fig4/AS:667342975553547@1536118372831/The-multiple-imputation-MI-process-In-the-first-step-missing-data-shown-in-white-is_W640.jpg"/>
+<img src="https://www.researchgate.net/profile/Ben_Van_Dusen/publication/327434397/figure/fig4/AS:667342975553547@1536118372831/The-multiple-imputation-MI-process-In-the-first-step-missing-data-shown-in-white-is_W640.jpg"/>
 
 ---
 
