@@ -1,5 +1,18 @@
 ## Portfolio
 
+
+---
+[Docker for existing Rails app with Postgresql](https://medium.com/@shravan007.c/docker-for-exiting-rails-app-with-postgresql-59eaa79ec7ac)
+<img src="https://www.docker.com/sites/default/files/d8/styles/large/public/2018-11/container-what-is-container.png?itok=vle7kjDj"/>
+
+---
+
+---
+[EDA - Data Imputation](https://medium.com/@shravan007.c/docker-for-exiting-rails-app-with-postgresql-59eaa79ec7ac)
+<img src="https://www.researchgate.net/profile/Ben_Van_Dusen/publication/327434397/figure/fig4/AS:667342975553547@1536118372831/The-multiple-imputation-MI-process-In-the-first-step-missing-data-shown-in-white-is_W640.jpg"/>
+ref: https://www.researchgate.net/publication/327434397_Missing_data_and_bias_in_physics_education_research_A_case_for_using_multiple_imputation
+---
+
 ---
 [Neural Machine Translation with Attention](https://medium.com/@shravan007.c/neural-machine-translation-with-attention-and-tensorflow-2-0-6c6d16c829f40)
 <img src="https://blog.exxactcorp.com/wp-content/uploads/2019/07/Tensorflow-2.0-bg.png"/>
