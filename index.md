@@ -2,6 +2,14 @@
 
 
 ---
+[Linear Regression Using TensorFlow](https://medium.com/@shravan007.c/simple-linear-regression-using-tensorflow-97f60785ca47)
+<img src="https://blog.exxactcorp.com/wp-content/uploads/2019/07/Tensorflow-2.0-bg.png"/>
+
+---
+
+
+
+---
 [Docker for existing Rails app with Postgresql](https://medium.com/@shravan007.c/docker-for-exiting-rails-app-with-postgresql-59eaa79ec7ac)
 <img src="https://www.docker.com/sites/default/files/d8/styles/large/public/2018-11/container-what-is-container.png?itok=vle7kjDj"/>
 
