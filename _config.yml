@@ -2,12 +2,13 @@ title: Shravan Chandrashekharaiah # your name (or website title) here
 logo: "/images/profile.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Pursuing M.Sc. in Software Engineering at the University of Limerick  <br>
-  Have 5+ years of work experience. Experienced in Ruby on Rails and Python technology
+  Have 5+ years of work experience. Experienced in Ruby on Rails and Python technology | Certified Tensorflow Developer
   <br><br>
   Professionally worked on below domain:<br>
   - OTT products(RoR).<br>
   - Newsroom(CMS) product(RoR).<br>
-  - OCR Technology(Flask)
+  - OCR Technology(Flask) <br>
+  - Tensorflow Framework
   <br><br>
   Personal Projects:<br>
   - Micro Service vod_platform in rails as a College project.<br>
